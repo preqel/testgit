@@ -1,0 +1,3 @@
+<hsml>
+hello <label/>this is my world
+</hsml>
