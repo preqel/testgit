@@ -1,5 +1,6 @@
 <hsml>
 hello <label/>this is my world
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
+
 
 </hsml>
