@@ -1,0 +1,24 @@
+内网访问地址：http://10.139.101.120:8080/mbank/T_MHSY.hsml 
+外网访问地址：
+
+我的地址：http://192.168.118.246:8080/flowesp/T_MHSY.hsml
+
+
+存放模板地址：
+http://192.168.50.154/template/public.zip 
+linux：
+/usr/local/apache2docs/template
+root
+master@123
+
+
+
+
+
+首页地址：
+http://192.168.118.246:8080/flowesp/updateTemplate.do
+参数：template_version   默认：10000000
+返回：
+{"TEMPLATE_VERSION":"10000001","UPDATE_ADDRESS":"http://192.168.50.154/template/public.zip","MOUDLE_ID":"0","DESCRIPTION":null,"errorcode":"0"}
+首页请求地址：
+http://192.168.118.246:8080/flowesp/T_MHSY.json
