@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<hsml>
-hello <label/>this is my world<label/>zebra
-Creating a new branch is quick and simple.
-</hsml>
-=======
+
 public static void main(string args[]){}
 String a = "hello ";
 String b= "world";
 System.out.println(a+b);
->>>>>>> 6d7fbc0... test.txt
+
